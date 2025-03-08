@@ -21,6 +21,15 @@ nav {
     grid-template-columns: 1fr;
     grid-template-rows: 3fr;
 }
+li {
+    display: grid;
+    grid-template-columns: 1fr;
+    grid-template-rows: 3fr;
+}
 img {
     box-shadow: inset;
+    width: 33%;
+    height: 300px;
 }
+
+
